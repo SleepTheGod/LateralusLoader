@@ -125,4 +125,4 @@ MIT – see `LICENSE` for full text.
 
 GitHub: [@SleepTheGod](https://github.com/SleepTheGod)  
 Repo: [LateralusLoader](https://github.com/SleepTheGod/LateralusLoader)
-```
+LinuxKernel: [LateralusOS](https://lateralus.dev/os/)
